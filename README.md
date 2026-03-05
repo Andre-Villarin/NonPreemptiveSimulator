@@ -45,7 +45,7 @@ Requirements: C++
      ```
      ./simulate < InputFile1.txt
      ```
-4. Simulation results will be outputed to the terminal. For how to interpret the results, refer to [this document]().
+4. Simulation results will be outputed to the terminal. For how to interpret the results, refer to [this document](https://docs.google.com/document/d/1S_PEOaSddTODd2oxNNreiPuIp5A8u9puorTZCAZYMsI/edit?usp=sharing).
 
 # Example
 
