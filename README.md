@@ -2,6 +2,7 @@
 # Table of Contents
 - [Overview](#overview)
 - [Project Files](#project-files)
+- [Contributions](#contributions)
 - [Running the Simulator](#running-the-simulator)
 - [Example](#example)
 
@@ -18,6 +19,13 @@ simulated, and outputs a Gantt chart in text form.
     ├── InputFile1.txt                 # contains 8 test cases
     ├── InputFile2.txt                 # contains 8 test cases
     ├── NonPreemptiveCPUScheduler.cpp  # takes an input file (.txt) and outputs simulation results to console
+
+# Contributions
+The source code in this repository was written by me. The original project was developed as part of a group project, but this repository only contains the components I implemented.
+
+My contributions include:
+- FCFS scheduling algorithm
+- SJF scheduling algorithm
 
 # Running the Simulator
 
