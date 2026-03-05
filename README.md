@@ -19,6 +19,7 @@ simulated, and outputs a Gantt chart in text form.
     ├── InputFile1.txt                 # contains 8 test cases
     ├── InputFile2.txt                 # contains 8 test cases
     ├── NonPreemptiveCPUScheduler.cpp  # takes an input file (.txt) and outputs simulation results to console
+    ├── README.md                      # this file
 
 # Contributions
 The source code in this repository was written by me. The original project was developed as part of a group project, but this repository only contains the components I implemented.
