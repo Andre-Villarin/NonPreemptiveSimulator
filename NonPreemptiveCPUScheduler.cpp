@@ -255,13 +255,13 @@ void printOutput(TestCase &t, int current_time_ns) {
     cout << "CPU Utilization: " << cpu_util << "%" << endl;
     cout << "Throughput: " << throughput << " processes/ns" << endl;
 
-    cout << "Waiting times: " << endl;
+    cout << "Waiting times: " << avg_wait << "ns" << endl;
     printProcesses(t, "w");
 
-    cout << "Turnaround times: " << endl;
+    cout << "Turnaround times: " << avg_ta << "ns" << endl;
     printProcesses(t, "t");
 
-    cout << "Response times: " << endl;
+    cout << "Response times: " << avg_resp << "ns" << endl;
     printProcesses(t, "r");
 }
 
